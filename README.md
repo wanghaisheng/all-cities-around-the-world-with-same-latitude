@@ -12,9 +12,10 @@ http://www.gpsspg.com/maps.htm
 谷歌地球：35.5226253600,105.7284339500
 然后在这里 大概主流的城市录入了11000个城市，范围粗略搜索
 https://github.com/bahar/WorldCityLocations
-
+http://download.geonames.org/export/dump/
 
 类似纬度的
+```
 			纬度	经度
 50	Afghanistan	Chiras	35.4166667	65.9833298
 59	Afghanistan	Lar Gerd	35.4897222	66.6636124
@@ -58,10 +59,10 @@ https://github.com/bahar/WorldCityLocations
 9910	Tunisia	Bani Hassan	35.5666667	10.8166666
 9926	Tunisia	Sbiba	35.5455556	9.0802774
 
-
+```
 
 类似经度的
-
+```
 			纬度	经度	
 1836	Cambodia	Kampong Cham	12	105.4499969	21
 4855	Indonesia	Tanjungkarang-Telukbetung	-5.45	105.2666702	-9999
@@ -88,3 +89,4 @@ https://github.com/bahar/WorldCityLocations
 10411	Vietnam	Tuyen Quang	21.8233333	105.2180557	30
 10415	Vietnam	Phu Ly	20.5411111	105.913887	22
 10419	Vietnam	Vinh Yen	21.31	105.5966644	18
+```
